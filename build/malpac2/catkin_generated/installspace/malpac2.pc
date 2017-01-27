@@ -1,0 +1,8 @@
+prefix=/home/dominic/malpac2/install
+
+Name: malpac2
+Description: Description of malpac2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dominic/malpac2/install/lib 
+Requires: 

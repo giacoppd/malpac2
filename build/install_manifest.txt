@@ -1,0 +1,11 @@
+/home/dominic/malpac2/install/_setup_util.py
+/home/dominic/malpac2/install/env.sh
+/home/dominic/malpac2/install/setup.bash
+/home/dominic/malpac2/install/setup.sh
+/home/dominic/malpac2/install/setup.zsh
+/home/dominic/malpac2/install/.rosinstall
+/home/dominic/malpac2/install/lib/pkgconfig/malpac2.pc
+/home/dominic/malpac2/install/share/malpac2/cmake/malpac2Config.cmake
+/home/dominic/malpac2/install/share/malpac2/cmake/malpac2Config-version.cmake
+/home/dominic/malpac2/install/share/malpac2/package.xml
+/home/dominic/malpac2/install/lib/malpac2/bomb.py
